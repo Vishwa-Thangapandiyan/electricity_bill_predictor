@@ -24,7 +24,7 @@ The focus is on **understanding ML fundamentals**, including feature engineering
 
 ## 🧠 Feature Engineering
 
-### 1. Season Encoding
+### Season Encoding
 The `Date` column is converted to a season:
 - **Winter (0):** September – February  
 - **Summer (1):** March – August  
